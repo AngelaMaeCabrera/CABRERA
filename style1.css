@@ -1,0 +1,56 @@
+.header {
+	
+}
+
+.logo {
+	position: relative;
+	top: -57px;
+	right: -25px;
+	width: 90px;
+	height: 90px;
+	z-index: 1;
+}
+
+.rectangle {
+	position: relative; 
+	top: 20px;
+	left: 70px;
+    width: 400px;
+    height: 60px;
+    background-color: #00953B;
+	border-radius: 20px;
+}
+
+.rectangle_nav {
+	position: relative; 
+	top: -8px;
+	left: -8px;
+    width: 1400px;
+    height: 10px;
+    background-color: #006834;
+}
+
+.CCIS {
+	position: relative; 
+	top: 40px;
+	left: 115px;
+    width: 1400px;
+}
+
+
+.navigation {
+	position: relative;
+	top: -115px;
+	left: 900px;
+	word-spacing: 35px;
+}
+
+.hero_image {
+	position: relative;
+	margin: 3px;	
+	top: 20px;
+	left: -470px;
+	bottom: -110px;
+    width: 1400px;
+    height: 350px;
+} 
